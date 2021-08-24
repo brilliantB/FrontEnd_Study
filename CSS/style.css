@@ -198,6 +198,22 @@ table {
   font-style: italic;
 }
 
+.more-link {
+  display: inline-block;
+  width: 100px;
+  height: 40px;
+  border: 1px solid red;
+  line-height: 40px; /* 많이 사용하는 태그*/
+  text-decoration: none;
+  color: #191919;
+  margin-top: 20px;
+}
+
+.more-link:hover {
+  backgroud: red;
+  color: #fff;
+}
+
 .group {
   display: flex;
   justify-content: center;
