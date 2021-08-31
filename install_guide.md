@@ -5,6 +5,7 @@
 - node.js 설치 / 버전확인
 - npm(Node Package Manager) 버전 확인
 - yarn 설치 / 버전 확인
+- git 설치
 
 ### unix/dos 명령어
 
@@ -14,4 +15,11 @@
 - pwd / cd
 - mkdir /md
 
-### Visual
+### Visual Studio Code
+
+- 설치
+
+### React 프로젝트 설치
+
+- npx create-react-app [폴더이름]
+- 폴더 이름 : . - 현재폴더
